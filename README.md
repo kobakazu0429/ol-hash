@@ -6,7 +6,7 @@
 
 # Usage
 
-1.  import <[https://kobakazu0429.github.io/ol-hash/ol-hash.js](https://kobakazu0429.github.io/ol-hash/ol-hash.js)>
+1.  `import { addHash } from './ol-hash'`
 2.  call `addHash(map)`
 
 # Example
